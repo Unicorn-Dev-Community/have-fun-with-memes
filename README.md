@@ -17,4 +17,3 @@
 ![AddYouNameHere](programer.jpg)
 ![AddYouNameHere](snap.jpg)
 ![AddYouNameHere](web_dev.jpg)
-![AddYouNameHere](arch.jpg)
